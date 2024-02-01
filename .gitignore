@@ -5,6 +5,7 @@ luac.out
 *.src.rock
 *.zip
 *.tar.gz
+*.tar.gz
 
 # Object files
 *.o
